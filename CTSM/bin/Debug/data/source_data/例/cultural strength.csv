@@ -1,0 +1,13 @@
+culture1,culture2,cultural strength
+X,B,1.2
+X,C,1.2
+X,D,1.5
+B,X,0.9
+B,C,0.8
+B,D,1
+C,X,0.9
+C,B,0.8
+C,D,0.9
+D,X,0.8
+D,B,0.8
+D,C,0.9
